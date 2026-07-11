@@ -1,0 +1,8 @@
+{
+  "name": "C#",
+  "version": "10.0",
+  "type": "runtime",
+  "extensions": [".csproj"],
+  "entry": "Runtime/dotnet.exe",
+  "arguments": ["run", "--project", "{script}"]
+}
