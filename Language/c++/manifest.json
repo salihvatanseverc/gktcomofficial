@@ -1,0 +1,20 @@
+{
+  "name": "C++",
+  "id": "cpp",
+  "version": "1.0.0",
+  "runtime": {
+    "compiler": "runtime/bin/g++.exe",
+    "c_compiler": "runtime/bin/gcc.exe"
+  },
+  "paths": {
+    "bin": "runtime/bin",
+    "include": "runtime/include",
+    "lib": "runtime/lib"
+  },
+  "standards": [
+    "c++17",
+    "c++20",
+    "c++23"
+  ],
+  "default_standard": "c++23"
+}
