@@ -1,5 +1,0 @@
-#!/home/salih/python-runtime/bin/python3.14
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()

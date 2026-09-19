@@ -1,5 +1,0 @@
-C:/Users/Bruger/Desktop/Göktürk Programlama Dili/system/Studio/build/CMakeFiles/GokturkStudio.dir
-C:/Users/Bruger/Desktop/Göktürk Programlama Dili/system/Studio/build/CMakeFiles/edit_cache.dir
-C:/Users/Bruger/Desktop/Göktürk Programlama Dili/system/Studio/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Bruger/Desktop/Göktürk Programlama Dili/system/Studio/build/CMakeFiles/GokturkStudio_autogen_timestamp_deps.dir
-C:/Users/Bruger/Desktop/Göktürk Programlama Dili/system/Studio/build/CMakeFiles/GokturkStudio_autogen.dir

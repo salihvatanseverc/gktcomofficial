@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\GokturkStudio.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\GokturkStudio.dir/objects.a @CMakeFiles\GokturkStudio.dir\objects1.rsp
-C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\GokturkStudio.dir/objects.a -Wl,--no-whole-archive -o GokturkStudio.exe -Wl,--out-implib,libGokturkStudio.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GokturkStudio.dir\linkLibs.rsp

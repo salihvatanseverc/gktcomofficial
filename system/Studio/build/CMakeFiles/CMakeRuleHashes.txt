@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-14526266c9e11e73d573fcb0b879e084 CMakeFiles/GokturkStudio_autogen
-535b08a726ae8692b9b5d9a02125f3de GokturkStudio_autogen/timestamp
