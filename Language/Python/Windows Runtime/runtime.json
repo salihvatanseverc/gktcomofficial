@@ -1,0 +1,27 @@
+{
+  "runtime": {
+    "name": "Göktürk Python Runtime",
+    "version": "1.0.0",
+    "language": "Python",
+    "python_version": "3.14.5",
+    "architecture": "x64",
+    "platform": "Windows"
+  },
+  "packages": {
+    "requests": "2.34.2",
+    "numpy": "2.5.3",
+    "Pillow": "12.3.0"
+  },
+  "tools": {
+    "pip": "26.1.1",
+    "tkinter": "8.6"
+  },
+  "paths": {
+    "python": "python.exe",
+    "pythonw": "pythonw.exe",
+    "scripts": "Scripts",
+    "library": "Lib",
+    "dlls": "DLLs",
+    "tcl": "tcl"
+  }
+}
