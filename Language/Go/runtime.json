@@ -1,0 +1,8 @@
+{
+  "name": "Go",
+  "version": "1.27.1",
+  "type": "runtime",
+  "platform": "windows-amd64",
+  "extensions": [".go"],
+  "entry": "Windows Runtime/bin/go.exe"
+}
